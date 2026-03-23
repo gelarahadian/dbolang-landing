@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Warung Teh Ufu – Cicurug, Sukabumi",
+  title: "D'Bolang - Resto & Coffee Shop — Cicurug, Sukabumi",
   description:
-    "Warung makan dengan mie ayam, bakso, sate ayam, dan karedok. Harga murah meriah, rasa mantul!",
+    "Nikmati sajian autentik dengan pemandangan Gunung Salak yang memukau. Dari bebek goreng hingga kopi hangat — semua ada di sini.",
 };
 
 export default function RootLayout({
